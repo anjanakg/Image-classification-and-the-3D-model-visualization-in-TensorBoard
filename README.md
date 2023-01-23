@@ -4,7 +4,8 @@ I collected this dataset from Kaggle. The data set has bird images belonging to 
 First, I built a Deep Learning Model for classifying the birds. I trained and validated the model and visualized the results on TensorBoard. It is a [good working example](Birds_Classification_and_visualize_the_model_using_TensorBoard_myModel.ipynb)
 . However, the results were not that much of appealing. 
 
-Then I did the transfer learning using VGG16 model. I visualized the results in the TensorBoard. The following video shows the results that I get from the customized  VGG16 model with transfer learning. **You can check the 3-D visualizing video by clicking on the following image.**
+Then I did the [transfer learning using VGG16 model](Birds_Classification_and_visualize_the_model_using_TensorBoard_myModel.ipynb)
+. I visualized the results in the TensorBoard. The following video shows the results that I get from the customized  VGG16 model with transfer learning. **You can check the 3-D visualizing video by clicking on the following image.**
 
 
 [![TensorBoard Video](images/cover.jpg)](https://www.youtube.com/watch?v=ESLncp2y870 "Video is on YouTube - Click to Watch!")
