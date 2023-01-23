@@ -1,6 +1,6 @@
 # Image Classification using Deep Learning and the Model Visualization in 3D Space Using TensorBoard
 
-I collected this dataset from Kaggle. The data set has bird images belonging to 10 classes. These codes are examples of how to implement a 3-D visualization with the bird dataset classification and its embedded images. 
+I collected this dataset from Kaggle. I did not include the dataset in my GitHub repository. Anyone can follow the coding process for any image classification dataset and get the results to visualize on TensorBoard. The data set has bird images belonging to 10 classes. These codes are examples of how to implement a 3-D visualization with the bird dataset classification and its embedded images. 
 First, I built a Deep Learning Model for classifying the birds. I trained and validated the model and visualized the results on TensorBoard. It is a [good working example](Birds_Classification_and_visualize_the_model_using_TensorBoard_myModel.ipynb)
 . However, the results were not that much of appealing. 
 
